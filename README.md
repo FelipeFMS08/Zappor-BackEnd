@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Funcionalidades implementadas (Sprint 1 e 2)
+## 📌 Funcionalidades implementadas
 
 - ✅ Projeto estruturado em **Camadas**: Domain, Application, Infrastructure, API
 - ✅ Autenticação JWT com login de usuário
